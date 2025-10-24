@@ -7,7 +7,6 @@ import leftArrow from "@/assets/left.svg"; // replace with actual arrow icons
 import rightArrow from "@/assets/right.svg";
 import Image1 from "@/assets/gallery1.jpg";
 import { useState } from "react";
-import { set } from "zod";
 
 const GalleryCard = () => {
   const [images, setImages] = useState([Image1, Image1, Image1]);
