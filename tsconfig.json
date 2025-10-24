@@ -18,5 +18,4 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src", "src/types", "jest.setup.ts"]
 }
